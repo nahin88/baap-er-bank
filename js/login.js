@@ -15,6 +15,6 @@ document.getElementById('btn-clicked').addEventListener('click', function(){
         window.location.href = 'bank.html';
     }
     else{
-        alert('tor kase tk nai tui gorib');
+        alert('please provide right information');
     }
 });
